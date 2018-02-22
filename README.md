@@ -1,4 +1,4 @@
-# terraform-puppet-environment
+# terraform-puppet
 
 This terraform module creates monolithic Puppet Enterprise Master in Google Cloud Platform.
 
