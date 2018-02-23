@@ -6,4 +6,3 @@ This terraform module creates monolithic Puppet Enterprise Master in Google Clou
 
 1. Change variable values in the `variables.tf` file and just run `terraform apply` command.
 2. It needs about 10 mins to setup puppet enterprise master. You can ssh to the machine and examine `/var/log/messages` file for detailed info and setup process logs.
-3. It's done! PE Master is up and running.
